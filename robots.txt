@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iemuyeequi.craigmcn.ca/sitemap.xml
